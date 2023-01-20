@@ -1,4 +1,4 @@
-# Test Messages
+# Messages
 
 The purpose of this repository is to let you experiment with github's built-in messaging features.
 
