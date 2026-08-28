@@ -33,5 +33,8 @@ The purpose of this repository is to let you experiment with github's built-in m
         the account owner will receive an email.
         You should verify that the email went through.
 
+        Notice that you are not getting messages for all of the issues in this repo because you are not watching this repo.
+        (You should be watching the class repo and <https://github.com/mikeizbicki/about-me>!)
+
 1. Continue working on the remainder of the lab.
     I encourage you to work with the people you just met.
