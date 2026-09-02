@@ -1,6 +1,6 @@
 # Messages
 
-The purpose of this repository is to let you experiment with github's built-in messaging features.
+The purpose of this repository is to get you to meet other students in the class and to experiment with github's built-in messaging features.
 
 **Instructions:**
 
@@ -10,6 +10,16 @@ The purpose of this repository is to let you experiment with github's built-in m
     <img src=meme.jpg width=400px />
 
     (This class will seriously be a lot easier and more fun if you're working with other people on the projects... and you can't work with people you've never met...)
+
+    > **NOTE:**
+    > Recall that the collaboration policy in this class is that you can only work with other students either in class or at the QCL.
+    > The purpose of this policy is to *encourage* you all to work together---even if you don't know anyone else in class, you can always find other people to work with by visiting the QCL.
+    > The arrow shows where to find the QCL:
+    >
+    > <img src=QCL.png width=400px />
+    >
+    > The standard study times are 7pm-9pm, Sunday-Thursday.
+    > (Last updated 2 Sep 2026.)
 
 1. For each person you met above:
 
